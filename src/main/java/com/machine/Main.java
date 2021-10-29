@@ -36,7 +36,7 @@ public class Main {
 	m.mostrarEstadoActual();
 	
 	//Metodos con la maquina
-	m.comprarRefresco(cocaCola, 5.0);
+	m.mostrarInformacionDeCompra(cocaCola, 5.0);
 	m.mostrarEstadoActual();
 	
 	m.mostrarInformeVendidos();
